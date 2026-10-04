@@ -1,11 +1,11 @@
-# [John Hernandez](https://www.linkedin.com/in/john-hernandez-539a331a9/) | Information Technology & Cybersecurity Portfolio 
+# [John Hernandez](https://www.linkedin.com/in/john-hernandez-539a331a9/) | Information Technology & Cybersecurity Portfolio
 
 Portfolio demonstrating vulnerability management, threat detection, security operations, and network analysis, with a focus on risk reduction and remediation assurance.
 
 ## Vulnerability Management
 
 - [Cybersecurity Vulnerability Management Program](https://github.com/jhernandezcyber/cybersecurity-vulnerability-management-program)
-- Programmatic Vulnerability Remediation — PowerShell & Bash *(https://github.com/jhernandezcyber/programmatic-vulnerability-remediation)*
+- [Programmatic Vulnerability Remediation — PowerShell & Windows Commands](https://github.com/jhernandezcyber/programmatic-vulnerability-remediation)
 
 ## Threat Hunting & Security Operations
 
@@ -27,8 +27,7 @@ Portfolio demonstrating vulnerability management, threat detection, security ope
 - [CompTIA A+](https://www.credly.com/badges/3c810eff-1b3b-4484-89e7-2a212d2f4f34/public_url)
 
 ---
+
 ## Connect
 
-<a href="https://www.youtube.com/@Jhernandezcyber" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="20" height="20" style="margin-right: 8px;"></a>
-<a href="https://x.com/Jhernandezcyber/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="X" width="20" height="20" style="margin-right: 8px;"></a>
-<a href="https://www.linkedin.com/in/john-hernandez-539a331a9/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"></a>
+[YouTube](https://www.youtube.com/@Jhernandezcyber) · [X](https://x.com/Jhernandezcyber/) · [LinkedIn](https://www.linkedin.com/in/john-hernandez-539a331a9/)
