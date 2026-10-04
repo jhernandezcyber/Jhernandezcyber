@@ -5,7 +5,7 @@ Portfolio demonstrating vulnerability management, threat detection, security ope
 ## Vulnerability Management
 
 - [Cybersecurity Vulnerability Management Program](https://github.com/jhernandezcyber/cybersecurity-vulnerability-management-program)
-- Programmatic Vulnerability Remediation — PowerShell & Bash *(repository coming soon)*
+- Programmatic Vulnerability Remediation — PowerShell & Bash *(https://github.com/jhernandezcyber/programmatic-vulnerability-remediation)*
 
 ## Threat Hunting & Security Operations
 
