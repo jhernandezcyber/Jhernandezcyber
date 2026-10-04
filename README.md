@@ -1,6 +1,6 @@
 # [John Hernandez](https://www.linkedin.com/in/john-hernandez-539a331a9/) | Information Technology & Cybersecurity Portfolio
 
-Portfolio demonstrating vulnerability management, threat detection, security operations, and network analysis, with a focus on risk reduction and remediation assurance.
+Portfolio showcasing systems engineering and cybersecurity through secure infrastructure, automation, threat detection, and validated remediation, supported by technical documentation and measurable results.
 
 ## Vulnerability Management
 
