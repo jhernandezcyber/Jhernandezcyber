@@ -10,7 +10,7 @@ Portfolio demonstrating vulnerability management, threat detection, security ope
 ## Threat Hunting & Security Operations
 
 - [ActionDetection Lab — Azure Honeypot & Security Monitoring](https://github.com/John-Hernandez718/actiondetectionlab)
-- Threat Hunting — Tor Browser Activity *(repository coming soon)*
+- [Threat Hunting — Tor Browser Activity *(https://github.com/jhernandezcyber/threat-hunting-tor-browser)*](https://github.com/jhernandezcyber/threat-hunting-tor-browser)
 
 ## Network Analysis
 
